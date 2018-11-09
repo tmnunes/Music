@@ -1,0 +1,6 @@
+C:\Users\tnunes\Documents\GitHub\Random-Projects\keyFinder\keyFinder\bin\Debug\keyFinder.exe.config
+C:\Users\tnunes\Documents\GitHub\Random-Projects\keyFinder\keyFinder\bin\Debug\keyFinder.exe
+C:\Users\tnunes\Documents\GitHub\Random-Projects\keyFinder\keyFinder\bin\Debug\keyFinder.pdb
+C:\Users\tnunes\Documents\GitHub\Random-Projects\keyFinder\keyFinder\obj\Debug\keyFinder.csprojResolveAssemblyReference.cache
+C:\Users\tnunes\Documents\GitHub\Random-Projects\keyFinder\keyFinder\obj\Debug\keyFinder.exe
+C:\Users\tnunes\Documents\GitHub\Random-Projects\keyFinder\keyFinder\obj\Debug\keyFinder.pdb
